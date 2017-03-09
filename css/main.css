@@ -68,7 +68,7 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     vertical-align: top;
     margin-right: 20px;
     height: 55px;        /* if you want it to take the full height of the bar */
-    line-height: 55px;    /* if you want it vertically middle of the navbar */
+    line-height: 70px;    /* if you want it vertically middle of the navbar */
 }
 
 /*li a {

@@ -52,7 +52,7 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
 
 .navigation-bar {
     width: 100%;  /* i'm assuming full width */
-    height: 60px; /* change it to desired width */
+    height: 50px; /* change it to desired width */
     background-color: white; /* change to desired color */
 }
 
@@ -68,7 +68,7 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     vertical-align: top;
     margin-right: 20px;
     height: 80px;        /* if you want it to take the full height of the bar */
-    line-height: 60px;    /* if you want it vertically middle of the navbar */
+    line-height: 50px;    /* if you want it vertically middle of the navbar */
 }
 
 /*li a {
@@ -148,7 +148,6 @@ p {
 footer {
 font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     font-size: .8em;
-    margin: 20px auto;
 }
 
 ul.posts { 

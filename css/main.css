@@ -31,19 +31,10 @@ color: white;
   background-color: #001c54;
 }
 
-.lightblue {
-height: 2px;
-font-family:'Helvetica', 'Arial', 'Sans-Serif';
-color: white;
-  background: #0096b0;
-}
-
 .grey {
-background-color: #f3f3f3;
-margin:0px 0px 10px 0px;
-	border: #666; 
-	border-width: 3px;
-  }
+height: 128px;
+  background: #e2e1e1;
+}
 
 li {
 font-family:'Helvetica', 'Arial', 'Sans-Serif';

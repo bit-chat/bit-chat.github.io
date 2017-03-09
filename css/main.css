@@ -66,6 +66,7 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 .navigation-bar > a {
     display: inline-block;
+    float: center;
     vertical-align: top;
     margin-right: 20px;
     height: 80px;        /* if you want it to take the full height of the bar */

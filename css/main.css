@@ -59,11 +59,11 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline-block;
     float: center;
     vertical-align: top;
-    margin-top:15px;
+    margin-top:25px;
     margin-right: 20px;
     margin-left:0;
     height: 55px;        /* if you want it to take the full height of the bar */
-    line-height: 70px;    /* if you want it vertically middle of the navbar */
+    line-height: 55px;    /* if you want it vertically middle of the navbar */
 }
 
 .navigation-bar b {
@@ -71,11 +71,11 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline-block;
     float: right;
     vertical-align: top;
-    margin-top:15px;
+    margin-top:25px;
     margin-right: 20px;
     margin-left:0;
     height: 55px;        /* if you want it to take the full height of the bar */
-    line-height: 70px;    /* if you want it vertically middle of the navbar */
+    line-height: 55px;    /* if you want it vertically middle of the navbar */
 }
 
 .navigation-bar a li:hover {

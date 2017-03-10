@@ -54,7 +54,7 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-right: 320px;
     margin-top: 5px;    /* if you want it vertically middle of the navbar. */
 }
-.navigation-bar > a {
+.navigation-bar a {
 	
     display: inline-block;
     float: center;

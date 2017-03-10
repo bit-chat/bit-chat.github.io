@@ -48,16 +48,6 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: white; /* change to desired color */
 }
 
-.main-container {
-      float: left;
-      position: relative;
-      left: 50%;
-    }
-.fixer-container {
-      float: left;
-      position: relative;
-      left: -50%;
-    }
 
 .logo {
 float: left
@@ -66,8 +56,18 @@ float: left
     
     margin-top: 9px;    /* if you want it vertically middle of the navbar. */
 }
+
+
+.navigation-bar d {
+      float: left;
+      position: relative;
+      left: 50%;
+      }
+
 .navigation-bar c {
-	
+	      float: left;
+      position: relative;
+      left: -50%;
     display: inline-block;
     vertical-align: top;
     margin-bottom:0px;

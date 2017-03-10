@@ -63,13 +63,12 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
 float: left
     display: inline-block;
     vertical-align: top;
-    margin-right: 320px;
+    
     margin-top: 9px;    /* if you want it vertically middle of the navbar. */
 }
 .navigation-bar c {
 	
     display: inline-block;
-    float: center;
     vertical-align: top;
     margin-bottom:0px;
     margin-top:15px;

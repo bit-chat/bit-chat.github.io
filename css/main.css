@@ -66,17 +66,17 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 70px;    /* if you want it vertically middle of the navbar */
 }
 
-a{
+.navigation-bar li:hover p {
+text-decoration: underline;
+}
+
+.navigation-bar li{
 font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 14px;
 	color: 0c435f;
 }
 
-a:hover {
-text-decoration: underline;
-}
-
-a.active {
+.navigation-bar li.active {
 color: 5acfe5;
 }
 

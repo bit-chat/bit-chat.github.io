@@ -59,7 +59,7 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline-block;
     float: center;
     vertical-align: top;
-    margin-top:25px;
+    margin-top:5px;
     margin-right: 20px;
     margin-left:0;
     height: 55px;        /* if you want it to take the full height of the bar */
@@ -71,26 +71,14 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline-block;
     float: right;
     vertical-align: top;
-    margin-top:25px;
+    margin-top: 5px;
     margin-right: 20px;
     margin-left:0;
     height: 55px;        /* if you want it to take the full height of the bar */
     line-height: 55px;    /* if you want it vertically middle of the navbar */
 }
 
-.navigation-bar a li:hover {
-text-decoration: underline;
-}
 
-.navigation-bar a li{
-font-family:'Helvetica', 'Arial', 'Sans-Serif';
-	font-size: 14px;
-	color: 0c435f;
-}
-
-.navigation-bar a li.active {
-color: 5acfe5;
-}
 
 /*li a {
     display: block;

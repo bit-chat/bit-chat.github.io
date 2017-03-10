@@ -55,9 +55,7 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-top: 5px;    /* if you want it vertically middle of the navbar. */
 }
 .navigation-bar > a {
-	font-family:'Helvetica', 'Arial', 'Sans-Serif';
-	font-size: 14px;
-	color: 0c435f;
+	
     display: inline-block;
     float: center;
     vertical-align: top;
@@ -68,11 +66,17 @@ font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 70px;    /* if you want it vertically middle of the navbar */
 }
 
-.navigation-bar > a:hover {
+a{
+font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-size: 14px;
+	color: 0c435f;
+}
+
+a:hover {
 text-decoration: underline;
 }
 
-.navigation-bar > a.active {
+a.active {
 color: 5acfe5;
 }
 
